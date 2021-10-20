@@ -31,8 +31,38 @@ Contoh :
 long p = 2147483648L;
 ```
 2. [Jawaban Soal 2]()
+
+Ini adalah hasil compilasi setelah dijalankan :
+```
+Masukkan Jumlah Anak Ayam : 10
+
+Anak ayam turun 10
+Mati 1 tinggal 9
+Anak ayam turun 9
+Mati 1 tinggal 8
+Anak ayam turun 8
+Mati 1 tinggal 7
+Anak ayam turun 7
+Mati 1 tinggal 6
+Anak ayam turun 6
+Mati 1 tinggal 5
+Anak ayam turun 5
+Mati 1 tinggal 4
+Anak ayam turun 4
+Mati 1 tinggal 3
+Anak ayam turun 3
+Mati 1 tinggal 2
+Anak ayam turun 2
+Mati 1 tinggal 1
+Anak Ayam turun 1, Mati Satu  tinggal induknya
+
+Process finished with exit code 0
+```
 3. [Jawaban Soal 3]()
 
 <hr>
 
 ## Kesimpulan
+
+Pada praktikum kali ini kita mempelajari pengertian tentang keyword dalam java, tipe dasar, variable, casting & promotion. Kita juga mengimplementasikan ke dalam bahasa java.
+Di akhir kita juga mengerjakan cara menyelesaikan suatu masalah yang ada menggunakan materi yang dipelajari.
