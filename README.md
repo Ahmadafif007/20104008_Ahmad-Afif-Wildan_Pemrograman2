@@ -15,7 +15,7 @@ Soal :
 3. A + B - C
 
 Jawaban :
-1. [Jawaban Soal 1]()
+1. [Jawaban Soal 1](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul0/src/main/java/com/afif/pbo/modul0/latihan/BigInteger.java)
 ``` java
 long p = 2147483648;
 ```
@@ -30,7 +30,7 @@ Contoh :
 ``` java
 long p = 2147483648L;
 ```
-2. [Jawaban Soal 2]()
+2. [Jawaban Soal 2](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul0/src/main/java/com/afif/pbo/modul0/latihan/AnakAyam.java)
 
 Ini adalah hasil compilasi setelah dijalankan :
 ```
@@ -58,8 +58,28 @@ Anak Ayam turun 1, Mati Satu  tinggal induknya
 
 Process finished with exit code 0
 ```
-3. [Jawaban Soal 3]()
+3. [Jawaban Soal 3](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul0/src/main/java/com/afif/pbo/modul0/latihan/Case.java)
 
+Hasil program setelah di jalankan :
+```
+Masukan jumlah test case yang akan dijalankan (1 - 10): 7
+
+29 + 32 - 18 = 43
+
+61 + 87 - 85 = 63
+
+13 + 80 - 41 = 52
+
+50 + 18 - 89 = -21
+
+16 + 68 - 56 = 28
+
+16 + 3 - 81 = -62
+
+95 + 11 - 8 = 98
+
+Process finished with exit code 0
+```
 <hr>
 
 ## Kesimpulan
