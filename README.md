@@ -1,10 +1,17 @@
 # Modul0 : Dasar Pemrograman Java
 
 ## Dasar Teori
-* Keyword dalam java : Keyword adalah kata kunci yang digunakan dalam bahasa pemrograman. salah satunya adalah java, kata kunci ini digunakan pada sebuah class/variable/method/konstruktor, untuk menentukan sifat, jenis atau hak akses yang digunakan, didalam java terdapat banyak sekali jeni keyword yang bisa kita gunakan.
-* Tipe dasar : Java mempunyai 11 macam tipe data yang terdiri atas tipe data sederhana dan referensi / komposit. Tipe sederhana meliputi byte, short, int, long, char, float, double dan boolean yang terbagi menjadi 3 tipe. Sedangkan tipe data referensi meliputi class,array dan interface.
-* Variabel : Variabel merupakan tempat yang digunakan untuk menyimpan data pada bahasa pemograman disini khusunya pemograman java. Dalam memahami variabel tentu kita harus mengetahui tipe data, dikarenakan dalam penggunaan variabel selalu di awali oleh tipe data yang bakal digunakan.
-* Casting dan Promotion : Casting ini merupajan proses pengkonversian type data dari type data yang berbeda. Casting ini terbagi dua bagian lagi yaitu casting implisit dan casting ekspilisit. Sedangkan promotion adalah proses konversi suatu variabel yang bertype data yang terjadi pada saat menjalankan proses aritmatik. 
+* Keyword dalam java : 
+  
+  Keyword adalah kata kunci yang digunakan dalam bahasa pemrograman. salah satunya adalah java, kata kunci ini digunakan pada sebuah class/variable/method/konstruktor, untuk   menentukan sifat, jenis atau hak akses yang digunakan, didalam java terdapat banyak sekali jeni keyword yang bisa kita gunakan.
+* Tipe dasar : 
+
+  Java mempunyai 11 macam tipe data yang terdiri atas tipe data sederhana dan referensi / komposit. Tipe sederhana meliputi byte, short, int, long, char, float, double dan     boolean yang terbagi menjadi 3 tipe. Sedangkan tipe data referensi meliputi class,array dan interface.
+* Variabel : 
+  Variabel merupakan tempat yang digunakan untuk menyimpan data pada bahasa pemograman disini khusunya pemograman java. Dalam memahami variabel tentu kita harus mengetahui     tipe data, dikarenakan dalam penggunaan variabel selalu di awali oleh tipe data yang bakal digunakan.
+* Casting dan Promotion : 
+
+  Casting ini merupajan proses pengkonversian type data dari type data yang berbeda. Casting ini terbagi dua bagian lagi yaitu casting implisit dan casting ekspilisit.         Sedangkan promotion adalah proses konversi suatu variabel yang bertype data yang terjadi pada saat menjalankan proses aritmatik. 
 
 <hr>
 
