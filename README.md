@@ -1,10 +1,20 @@
-# 20104008_Ahmad-Afif-Wildan_Pemrograman2
+# Modul4 : Dasar Pemrograman Java
 
-### Praktikum Pemrograman 2
+## Dasar Teori
+* Information hiding
+* Enkapsulasi
+* Constructor
+* Overloading constructor
 
 <hr>
 
-### Daftar Isi :
-1. [Modul0 : Dasar Pemrograman Java](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/tree/modul0)
-2. [Modul3 : Dasar Pemrograman Java](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/tree/modul3)
-3. 
+## Praktikum
+Soal : Analisislah dan tentukan konsep apa saja yang digunakan (dari modul ini) 
+serta mengapa hasil akhirnya seperti itu!
+
+Jawaban :
+1. [Jawaban Soal]()
+2. [Jawaban Soal]()
+
+## Kesimpulan
+
