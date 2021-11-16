@@ -30,18 +30,17 @@
   Konstruktor berbeda dari metode kelas lain dalam hal mereka membuat objek baru, sedangkan metode lain dipanggil oleh objek yang ada . Ini adalah salah satu alasan             konstruktor tidak diwariskan . Warisan berarti objek yang diturunkan dapat menggunakan metode kelas dasar, tetapi, dalam kasus konstruktor, objek tidak ada sampai setelah     konstruktor menyelesaikan tugasnya.
 
 ## Praktikum
-1. Percobaan 1 [A]()
-2. Percobaan 1 [B]()
-3. Percobaan 1 [Bentuk Java]()
-4. Percobaan 2
-5. Percobaan 2
-6. Percobaan 2
-7. Percobaan 3
-8. Percobaan 3
-9. Percobaan 3
-10. Percobaan 4
-11. Percobaan 4
-12. Percobaan 4
+1. Percobaan 1 [A](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/A.java)
+2. Percobaan 1 [B](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/B.java)
+3. Percobaan 1 [Bentuk Java](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/Bentuk.java)
+4. Percobaan 2 [InheritDemo](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/InheritDemo.java)
+5. Percobaan 2 [InheritanceTest](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/InheritanceTest.java)
+6. Percobaan 3 [Persegi](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/Persegi.java)
+7. Percobaan 3 [PersegiTest](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/PersegiTest.java)
+8. Percobaan 4 [Person](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/Person.java)
+9. Percobaan 4 [Student](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/modul6/src/main/java/com/afif/pbo/modul6/percobaan/Student.java)
+
 
 ## Kesimpulan
-Pada praktikum kali ini kita mempelajari tentang package, mengimport class, dan kata kunci this. Kita juga mempelajari perintah perintah dan cara untuk menjalankannya. Dan diakhir kita belajar untuk memecahkan suatu permasalahan menggunakan materi yang sudah dipelajari. Yaitu mengimplementasikan UML class diagram dalam program untuk package perbankan. 
+Pada praktikum kali ini kita mempelajari tentang Pengertian inheritence, Deklarasi inheritance dan Single inheritance, Penerapaan inheritance, Pengaksesan member dari parent class, Kontrol pengaksesan, Kata kunci super, dan Konstruktor tidak diwariskan. Setelah mempelajari pengertian dan juga memahami perintah perintahnya kita kemudian mempraktekkannya. Suatu class yang mempunyai class turunan dinamakan parent class atau base class. Contoh diatas memberitahukan kompiler Java bahwa kita ingin mengextend class A ke class B. Dengan kata lain, class B adalah subclass (class turunan) dari class A, sedangkan class A adalah parent class dari class B. Java hanya memperkenankan adanya single inheritance. Sejauh mana suatu member dapat diwariskan ke class lain, ataupun suatu member dapat diakses dari class lain, sangat berhubungan dengan access control (kontrol pengaksesan). Di dalam java, kontrol pengaksesan dapat digambarkan dalam tabel berikut ini: Kata kunci super dipakai untuk merujuk pada member dari parent class, sebagaimana kata kunci this yang dipakai untuk merujuk pada member dari class itu sendiri.
+
