@@ -11,3 +11,4 @@
 4. [Modul5 : Mengelola Class](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/tree/modul5)
 5. [Modul6 : Konsep Inheritance](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/tree/modul6)
 6. [Modul7 : OVERLOADING DAN OVERRIDING](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/tree/modul7)
+7. [Modul8 : Polimorfisme]()
