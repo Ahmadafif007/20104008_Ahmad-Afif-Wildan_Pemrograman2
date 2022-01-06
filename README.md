@@ -1,5 +1,9 @@
 ## Tugas Akhir : Program Pendaftaran Mahasiswa Baru
-
+## Anggota Kelompok
+   1. Ahmad Afif Wildan/20104008
+   2. Anshari Rusmeniar Rizky Arief/20104015
+   3. Arisandi Fanansyah/20104018
+   4. Emha Hanafi/20104028
 ## Dasar Teori
 * Class & Object :
   
