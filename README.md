@@ -36,6 +36,16 @@
 <hr>
 
 ## Program
+
+Secara umum tujuan penerapan sistem pendaftaran  dengan mengoptimalkan pendayagunaan Teknologi Informasi, antara lain:
+
+Meningkatkan mutu layanan Pendaftaran .
+Menciptakan transparansi dan akuntabilitas penyelenggaraan .
+Melaksanakan proses Pendaftaran dengan lebih praktis dan efisien.
+Menyediakan basis data Pendaftaran yang akurat.
+Memberi fasilitas akses info Pendaftaran dengan cepat, mudah dan akurat.
+ Mempermudah mahasiswa dan orang tua mahasiswa dengan cepat memperoleh informasi Pendaftaran yang akurat, serta memungkinkan berlangsung secara transparan.
+
 Program Pendaftaran Sekolah :
 1. [Class Kalimat](https://github.com/Ahmadafif007/20104008_Ahmad-Afif-Wildan_Pemrograman2/blob/TugasAkhir/Kalimat.java)
    Class ini berfungsi untuk menampilkan kalimat akhir pada output.
